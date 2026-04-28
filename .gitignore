@@ -1,3 +1,9 @@
+### Python ###
+.venv/
+__pycache__/
+*.pyc
+.env
+
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
